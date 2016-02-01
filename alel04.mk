@@ -166,8 +166,8 @@ PRODUCT_PACKAGES += \
     power.msm8916
 
 # Radio
-PRODUCT_BOOT_JARS += \
-    qcrilhook
+#PRODUCT_BOOT_JARS += \
+#    qcrilhook
 
 # RIL
 PRODUCT_PACKAGES += \
